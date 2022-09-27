@@ -9,7 +9,7 @@ jQuery(document).ready(function ($) {
         {
           width: itemWidth,
         },
-        0
+        800
       );
     });
   });

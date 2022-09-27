@@ -3,7 +3,7 @@ jQuery(document).ready(function ($) {
     $(window).on("load", function () {
       $(".level-bar-inner").each(function () {
         var n = $(this).data("level");
-        $(this).animate({ width: n }, 0);
+        $(this).animate({ width: n }, 800);
       });
     });
 });
