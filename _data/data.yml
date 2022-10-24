@@ -127,7 +127,7 @@ projects:
   assignments:
     - title: District 21 Men's Fast Pitch Softball
       link: "https://d21softball.org"
-      tagline: "Nextjs, Strapi CMS, Material UI, Stipe.js, postgreSQL, SSL, CI/CD, Ubuntu DigitalOcean droplet"
+      tagline: "Nextjs, Strapi CMS, Material UI, Stripe.js, postgreSQL, SSL, CI/CD, Ubuntu DigitalOcean droplet"
 
     - title: Charlevoix Alano Club
       link: "https://charlevoixalano.org"
